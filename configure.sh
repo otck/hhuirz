@@ -9,14 +9,14 @@ cat << EOF > /etc/v2ray/config.json
         "protocol": "vmess",
         "settings": {
             "clients": [{
-                "id": "001cbe37-fb12-42f5-9050-f44347fae377",
+                "id": "bd8393d1-c39b-4cd2-9f85-24bbecb50402",
                 "alterId": 0
             }]
         },
         "streamSettings": {
             "network": "ws",
             "wsSettings": {
-                "path": "/vl"
+                "path": "/laowang"
             }
         }
     }],
